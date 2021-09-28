@@ -1,4 +1,4 @@
-# Water-Simulation-C-
+# Water-Simulation-C++
 Water simulation in C++ (Serial Version)
 
 Allegro5 based C++ project that simulates 2D water flow using mass-pressure as fluid dynamics for the simulation:
